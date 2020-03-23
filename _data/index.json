@@ -70,7 +70,7 @@
       ],
       "notes": "",
       "detailsLink": "https://www.marksandspencer.com/c/neighbourly",
-      "twitterLink": "https://twitter.com/marksandspencer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      "twitterLink": "https://twitter.com/marksandspencer"
     },
     {
       "name": "Asda",
@@ -104,7 +104,64 @@
       ],
       "notes": "Installing protective screens. Opening hours 8-8 during week.",
       "detailsLink": "https://groceries.morrisons.com/content/important-update-on-coronavirus-94110?ad=61350%7C1231676%7C61343%7C1168557",
-      "twitterLink": "https://twitter.com/Morrisons?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+      "twitterLink": "https://twitter.com/Morrisons"
+    },
+    {
+      "name": "Co-Op",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Co-Operative_clover_leaf_logo.svg/1200px-The_Co-Operative_clover_leaf_logo.svg.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "8–9am Monday to Saturday, and 10– 11am on Sundays (Not dedicated)"
+        },
+        {
+          "title": "Those at higher risk and the people who care for them",
+          "description": "8–9am Monday to Saturday, and 10– 11am on Sundays (Not dedicated)"
+        }
+      ],
+      "notes": "They say: \"Our colleagues will be prioritising and caring for vulnerable customers.\"",
+      "detailsLink": "https://www.coop.co.uk/coronavirus",
+      "twitterLink": "https://twitter.com/coopuk"
+    },
+    {
+      "name": "Iceland",
+      "logo": "https://1acf5lgsw9284bcz215ivefg-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/Iceland-Logo.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "Final hour of trading, Monday - Saturday (with ID)"
+        },
+        {
+          "title": "Elderly and vulnerable",
+          "description": "First hour of trading, Monday - Saturday"
+        }
+      ],
+      "detailsLink": "https://www.iceland.co.uk/customer-support/help-articles#coronavirus",
+      "twitterLink": "https://twitter.com/IcelandFoods?s=20"
+    },
+    {
+      "name": "Lidl",
+      "logo": "https://poseidon-gp.com/property/wp-content/uploads/2013/12/lidl.png",
+      "hours": [
+        {
+          "title": "All Customers",
+          "description": "No commitment to priority or early opening"
+        }
+      ],
+      "detailsLink": "https://www.lidl.co.uk/about-us/customer-update",
+      "twitterLink": "https://twitter.com/LidlGB"
+    },
+    {
+      "name": "Aldi",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/12/Aldi-logo.png",
+      "hours": [
+        {
+          "title": "All Customers",
+          "description": "No commitment to priority or early opening"
+        }
+      ],
+      "detailsLink": "https://www.aldi.co.uk/covid19",
+      "twitterLink": "https://twitter.com/AldiUK"
     }
   ]
 }
