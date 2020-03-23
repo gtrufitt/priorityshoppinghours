@@ -17,6 +17,7 @@ ul {
 }
 
 .groups {
+    font-size: 0.85em;
     padding: 0.5em 0;
     border-bottom: 1px solid #ccc;
     margin-bottom: 0.5em;
