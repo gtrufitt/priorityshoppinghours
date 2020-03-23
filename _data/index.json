@@ -43,12 +43,12 @@
       "logo": "https://1000logos.net/wp-content/uploads/2017/09/Waitrose-Logo-1.png",
       "hours": [
         {
-          "title": "Elderly and vulnerable shoppers, as well as those who look after them",
-          "description": "First opening hour in all supermarkets"
-        },
-        {
           "title": "NHS Workers",
           "description": "Daily essentials kept aside, priority treatment at checkout"
+        },
+        {
+          "title": "Elderly and vulnerable shoppers, as well as those who look after them",
+          "description": "First opening hour in all supermarkets"
         }
       ],
       "notes": "",
