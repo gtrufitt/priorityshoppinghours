@@ -6,31 +6,55 @@
       "hours": [
         {
           "title": "NHS",
-          "description": "Morning"
+          "description": "Sunday, before opening, browsing hour for NHS workers."
         },
         {
-          "title": "Elderly, Vulnerable and Carers",
-          "description": "8-9am"
+          "title": "Elderly and Most Vulnerable",
+          "description": "9 - 10am - Monday, Wednesday and Friday"
         }
       ],
-      "notes": "Reconciled opening hours",
-      "detailsLink": "https://tesco.com"
+      "notes": "Excludes express stores. All stores closing at 10pm. ",
+      "detailsLink": "https://digitalcontent.api.tesco.com/v2/media/ghs-mktg/e3826f9b-9226-4ae0-a583-943867f41636/vulnerable-hour.pdf?icid=dchp_cs1_accesshour_w4",
+      "twitterLink": "https://twitter.com/Tesco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
     },
     {
       "name": "Waitrose",
       "logo": "https://1000logos.net/wp-content/uploads/2017/09/Waitrose-Logo-1.png",
       "hours": [
         {
-          "title": "NHS",
-          "description": "Morning"
+          "title": "Elderly and vulnerable shoppers, as well as those who look after them",
+          "description": "First opening hour in all supermarkets"
         },
         {
-          "title": "Elderly, Vulnerable and Carers",
-          "description": "8-9am"
+          "title": "NHS Workers",
+          "description": "Daily essentials kept aside, priority treatment at checkout"
         }
       ],
-      "notes": "Reconciled opening hours",
-      "detailsLink": "https://waitrose.com"
+      "notes": "No reference to NHS or priority online slots",
+      "detailsLink": "https://www.waitrose.com/ecom/help-information/customer-service/coronavirus",
+      "twitterLink": "https://twitter.com/waitrose?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "name": "Sainsburys",
+      "logo": "https://1000logos.net/wp-content/uploads/2018/08/sainsburys-logo.png",
+      "hours": [
+        {
+          "title": "NHS and social care workers",
+          "description": "Monday to Saturday, with NHS ID from 07.30 to 08.00"
+        },
+        {
+          "title": "Elderly, Disabled and Carers",
+          "description": "Monday, Wednesday and Friday, 08.00 to 09.00"
+        },
+        {
+          "title": "Online delivery",
+          "description": "Prioritised online delivery slots for elderly, disabled and vulnerable customers."
+        }
+        
+      ],
+      "notes": "All supermarkets will be open from 08.00 to 20.00 Monday – Saturday",
+      "detailsLink": "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/working-to-feed-the-nation-/latest-information--?storeId=10151&langId=44&krypto=Y7XJ8Ek98uf%2B5ruQTCXQxFVMrd4QwW6nAzMMmN972JIXCQnvu7SCFiJkN7cJWXt8gkH33NcnX3Cf8GdACkFMfdblfY91urcIOA0KomiE4FRsSWQ%2ByZRSp1Qb4Ih7waepu%2Blm3GnFAqMy1NGltXUZB31FD8ljMlSrIYeBLhlsNVQ%3D&ddkey=https%3Agb%2Fgroceries%2Fworking-to-feed-the-nation-%2Flatest-information--",
+      "twitterLink": "https://twitter.com/sainsburys?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
     }
   ]
 }

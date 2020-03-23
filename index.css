@@ -6,6 +6,13 @@ body {
       
 }
 
+.button {
+    display: inline-block;
+    padding: 5px;
+    background: #f6f6f6;
+    border-radius: 10px;
+}
+
 .header {
     display: flex;
     align-items: center;
@@ -33,6 +40,7 @@ ul {
 .logo {
     float: left;
     display: inline-block;
+    max-height: 50px;
 }
 
 .supermarket-name {

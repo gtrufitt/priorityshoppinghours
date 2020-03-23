@@ -21,11 +21,19 @@
 
     <h1 style="line-height: 0.8em;">UK Priority Shopping Hours <span style="font-size: 0.5em; display: inline-block;">during Coronavirus outbreak</span></h1>
 
+    <p class="small">Click to view:</p>
+    {% for supermarket in index.supermarkets %}
+    <a href="#{{ supermarket.name | url_encode }}" class="button">
+        <img style="width: 70px;" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=50&w=140&trim=20" alt="View details for {{ supermarket.name }}">
+    </a>
+    {% endfor %}
+    
+
     <ul>
         {% for supermarket in index.supermarkets %}
-            <li class="supermarket">
+            <li class="supermarket" id="{{ supermarket.name | url_encode }}">
                 <div class="header">                    
-                    <img class="logo" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=50&w=150&trim=20" alt="{{ supermarket.name }}">
+                    <img class="logo" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=100&w=300&trim=20" alt="{{ supermarket.name }}">
                     <h2 class="sr">{{ supermarket.name }}</h2>
                 </div>
                 <dl class="groups">
@@ -36,13 +44,22 @@
                 </dl>
                 <h4 class="small">Notes</h4>
                 <p class="notes small">{{supermarket.notes}}</p>
-                <a class="notes small" href="{{supermarket.detailsLink}}">View details</a>
+                <a class="notes small" href="{{supermarket.detailsLink}}">View Website</a> <a class="notes small" href="{{supermarket.twitterLInk}}">View Twitter</a>
             </li>
         {% endfor %}
     </ul>
 
-    <p>If you see something wrong, please email shoppinghours@gmail.com</p>
-    <p><a href="">Contribute on GitHub</a>
+    <h3>Issues or admendments?</h3>
+    <form name="contact" method="POST" data-netlify="true" class="small">
+        <p>
+            <label>Message: <textarea name="message" style="display: block; width: 100%; margin-bottom: 5px;"></textarea></label>
+        </p>
+        <p>
+            <button type="submit">Send</button>
+        </p>
+    </form>
+
+    <p class="small"><a href="https://github.com/gtrufitt/priorityshoppinghours">Contribute on GitHub</a></p>
 
   <script src="scripts.js"></script>
 </body>
