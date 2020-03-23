@@ -1,0 +1,48 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Priority Shopping Hours</title>
+  <meta name="description" content="Supermarket priority shopping hours">
+
+  
+  <style>
+  {% include ./reset.css %}
+  {% include ./index.css %}
+  </style>
+
+
+</head>
+
+<body>
+
+    <h1 style="line-height: 0.6em;">UK Priority Shopping Hours <span style="font-size: 0.5em; display: inline-block;">during Coronavirus outbreak</span></h1>
+
+    <ul>
+        {% for supermarket in index.supermarkets %}
+            <li class="supermarket">
+                <div class="header">                    
+                    <img class="logo" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=50&w=150&trim=20" alt="{{ supermarket.name }}">
+                    <h2 class="sr">{{ supermarket.name }}</h2>
+                </div>
+                <dl class="groups">
+                    {% for group in supermarket.hours %}
+                        <dt><h3>{{group.title}}</h3><dt>
+                        <dd><p>{{group.description}}</p><dd>
+                    {% endfor %}
+                </dl>
+                <h4 class="small">Notes</h4>
+                <p class="notes small">{{supermarket.notes}}</p>
+                <a class="notes small" href="{{supermarket.detailsLink}}">View details</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <p>If you see something wrong, please email shoppinghours@gmail.com</p>
+    <p><a href="">Contribute on GitHub</a>
+
+  <script src="scripts.js"></script>
+</body>
+</html>

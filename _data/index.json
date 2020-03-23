@@ -1,0 +1,36 @@
+{
+  "supermarkets": [
+    {
+      "name": "Tesco",
+      "logo": "https://logos-download.com/wp-content/uploads/2016/05/Tesco_logo_logotype.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "Morning"
+        },
+        {
+          "title": "Elderly, Vulnerable and Carers",
+          "description": "8-9am"
+        }
+      ],
+      "notes": "Reconciled opening hours",
+      "detailsLink": "https://tesco.com"
+    },
+    {
+      "name": "Waitrose",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/09/Waitrose-Logo-1.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "Morning"
+        },
+        {
+          "title": "Elderly, Vulnerable and Carers",
+          "description": "8-9am"
+        }
+      ],
+      "notes": "Reconciled opening hours",
+      "detailsLink": "https://waitrose.com"
+    }
+  ]
+}
