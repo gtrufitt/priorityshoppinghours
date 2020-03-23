@@ -38,7 +38,7 @@ ul {
 }
 
 .logo {
-    float: left;
+    margin: 0 auto;
     display: inline-block;
     max-height: 50px;
 }
