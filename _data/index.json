@@ -30,7 +30,7 @@
           "description": "Daily essentials kept aside, priority treatment at checkout"
         }
       ],
-      "notes": "No reference to NHS or priority online slots",
+      "notes": "",
       "detailsLink": "https://www.waitrose.com/ecom/help-information/customer-service/coronavirus",
       "twitterLink": "https://twitter.com/waitrose?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
     },
@@ -50,11 +50,61 @@
           "title": "Online delivery",
           "description": "Prioritised online delivery slots for elderly, disabled and vulnerable customers."
         }
-        
       ],
       "notes": "All supermarkets will be open from 08.00 to 20.00 Monday – Saturday",
       "detailsLink": "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/working-to-feed-the-nation-/latest-information--?storeId=10151&langId=44&krypto=Y7XJ8Ek98uf%2B5ruQTCXQxFVMrd4QwW6nAzMMmN972JIXCQnvu7SCFiJkN7cJWXt8gkH33NcnX3Cf8GdACkFMfdblfY91urcIOA0KomiE4FRsSWQ%2ByZRSp1Qb4Ih7waepu%2Blm3GnFAqMy1NGltXUZB31FD8ljMlSrIYeBLhlsNVQ%3D&ddkey=https%3Agb%2Fgroceries%2Fworking-to-feed-the-nation-%2Flatest-information--",
       "twitterLink": "https://twitter.com/sainsburys?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "name": "Marks and Spencer",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MarksAndSpencer1884_logo.svg/1200px-MarksAndSpencer1884_logo.svg.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "Tuesday and Friday for the first hour"
+        },
+        {
+          "title": "Elderly and Most Vulnerable",
+          "description": "Monday and Thursday for the first hour"
+        }
+      ],
+      "notes": "",
+      "detailsLink": "https://www.marksandspencer.com/c/neighbourly",
+      "twitterLink": "https://twitter.com/marksandspencer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    {
+      "name": "Asda",
+      "logo": "https://logosmarcas.com/wp-content/uploads/2020/02/ASDA-Logo.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "Larger stores every Monday, Wednesday and Friday from 8am to 9am."
+        },
+        {
+          "title": "Elderly and Most Vulnerable",
+          "description": "No ongoing commitment."
+        }
+      ],
+      "notes": "Reduced opening times in stores, see website.",
+      "detailsLink": "https://corporate.asda.com/20200309/steps-we-have-taken-in-response-to-the-coronavirus-outbreak",
+      "twitterLink": "https://twitter.com/asda"
+    },
+    {
+      "name": "Morrisons",
+      "logo": "https://hjcdn.co.uk/images/employers/morrisons-7461/04-03-2020/morrisons-7461_1024@2x.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "7am to 8am, Monday to Saturday"
+        },
+        {
+          "title": "Elderly and Most Vulnerable",
+          "description": "No ongoing commitment."
+        }
+      ],
+      "notes": "Installing protective screens. Opening hours 8-8 during week.",
+      "detailsLink": "https://groceries.morrisons.com/content/important-update-on-coronavirus-94110?ad=61350%7C1231676%7C61343%7C1168557",
+      "twitterLink": "https://twitter.com/Morrisons?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
     }
   ]
 }

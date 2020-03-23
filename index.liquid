@@ -42,9 +42,11 @@
                         <dd><p>{{group.description}}</p><dd>
                     {% endfor %}
                 </dl>
-                <h4 class="small">Notes</h4>
-                <p class="notes small">{{supermarket.notes}}</p>
-                <a class="notes small" href="{{supermarket.detailsLink}}">View Website</a> <a class="notes small" href="{{supermarket.twitterLInk}}">View Twitter</a>
+                {% if supermarket.notes != "" %}
+                    <h4 class="small">Notes</h4>
+                    <p class="notes small">{{supermarket.notes}}</p>
+                {% endif %}
+                <a class="notes small" href="{{supermarket.detailsLink}}">View Website</a> <a class="notes small" href="{{supermarket.twitterLink}}">View Twitter</a>
             </li>
         {% endfor %}
     </ul>
