@@ -50,7 +50,10 @@
     </ul>
 
     <h3>Issues or admendments?</h3>
-    <form name="contact" method="POST" data-netlify="true" class="small">
+    <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="small">
+        <p class="hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+        </p>
         <p>
             <label>Message: <textarea name="message" style="display: block; width: 100%; margin-bottom: 5px;"></textarea></label>
         </p>
