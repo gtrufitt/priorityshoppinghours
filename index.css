@@ -6,6 +6,13 @@ body {
       
 }
 
+.main-heading {
+    line-height: 0.8em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 0.5em;
+}
+
 .button {
     display: inline-block;
     padding: 5px;

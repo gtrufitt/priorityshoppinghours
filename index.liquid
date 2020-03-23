@@ -27,9 +27,9 @@
 
 <body>
 
-    <h1 style="line-height: 0.8em;">UK Priority Shopping Hours <span style="font-size: 0.5em; display: inline-block;">during Covid-19 outbreak</span></h1>
+    <h1 class="main-heading">UK Priority Shopping Hours <span style="font-size: 0.5em; display: inline-block;">during Covid-19 outbreak</span></h1>
 
-    <p class="small">Click to view:</p>
+    <p class="small" style="margin-bottom: 0.2em;">Click to view:</p>
     {% for supermarket in index.supermarkets %}
     <a href="#{{ supermarket.name | url_encode }}" class="button">
         <img style="width: 70px;" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=50&w=140&trim=20" alt="View details for {{ supermarket.name }}">
