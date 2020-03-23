@@ -59,6 +59,8 @@
         {% endfor %}
     </ul>
 
+    <p class="small">Last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}</p>
+
     <h3>Issues or admendments?</h3>
     <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="small">
         <p style="display: none;">
