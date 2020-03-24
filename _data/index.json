@@ -17,6 +17,16 @@
           "description": "Prioritised online delivery slots for elderly, disabled and vulnerable customers."
         }
       ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "09:00 to 20:00"
+        },
+        {
+          "day": "Sunday",
+          "times": "Normal opening hours - Check your local branch"
+        }
+      ],
       "notes": "All supermarkets will be open from 08.00 to 20.00 Monday – Saturday",
       "detailsLink": "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/working-to-feed-the-nation-/latest-information--?storeId=10151&langId=44&krypto=Y7XJ8Ek98uf%2B5ruQTCXQxFVMrd4QwW6nAzMMmN972JIXCQnvu7SCFiJkN7cJWXt8gkH33NcnX3Cf8GdACkFMfdblfY91urcIOA0KomiE4FRsSWQ%2ByZRSp1Qb4Ih7waepu%2Blm3GnFAqMy1NGltXUZB31FD8ljMlSrIYeBLhlsNVQ%3D&ddkey=https%3Agb%2Fgroceries%2Fworking-to-feed-the-nation-%2Flatest-information--",
       "twitterLink": "https://twitter.com/sainsburys?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
@@ -32,6 +42,16 @@
         {
           "title": "Elderly and Most Vulnerable",
           "description": "9 - 10am - Monday, Wednesday and Friday"
+        }
+      ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "06:00 to 22:00"
+        },
+        {
+          "day": "Sunday",
+          "times": "10:00 to 16:00"
         }
       ],
       "notes": "Excludes express stores. All stores closing at 10pm. ",
@@ -51,6 +71,16 @@
           "description": "First opening hour in all supermarkets"
         }
       ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "07:30 to 20:00"
+        },
+        {
+          "day": "Sunday",
+          "times": "11:00 to 17:00"
+        }
+      ],
       "notes": "",
       "detailsLink": "https://www.waitrose.com/ecom/help-information/customer-service/coronavirus",
       "twitterLink": "https://twitter.com/waitrose?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
@@ -66,6 +96,20 @@
         {
           "title": "Elderly and Most Vulnerable",
           "description": "Monday and Thursday for the first hour"
+        }
+      ],
+      "generalHours": [
+        {
+          "day": "Monday to Friday",
+          "times": "08:00 to 20:00"
+        },
+        {
+          "day": "Saturday",
+          "times": "08:00 to 19:00"
+        },
+        {
+          "day": "Sunday",
+          "times": "10:30 to 16:30"
         }
       ],
       "notes": "",
@@ -85,6 +129,16 @@
           "description": "No ongoing commitment."
         }
       ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "08:00 to 20:00"
+        },
+        {
+          "day": "Sunday",
+          "times": "10:30 to 16:30"
+        }
+      ],
       "notes": "Reduced opening times in stores, see website.",
       "detailsLink": "https://corporate.asda.com/20200309/steps-we-have-taken-in-response-to-the-coronavirus-outbreak",
       "twitterLink": "https://twitter.com/asda"
@@ -100,6 +154,16 @@
         {
           "title": "Elderly and Most Vulnerable",
           "description": "No ongoing commitment."
+        }
+      ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "08:00 to 20:00"
+        },
+        {
+          "day": "Sunday",
+          "times": "10:00 to 16:00"
         }
       ],
       "notes": "Installing protective screens. Opening hours 8-8 during week.",
@@ -119,6 +183,12 @@
           "description": "8–9am Monday to Saturday, and 10– 11am on Sundays (Not dedicated)"
         }
       ],
+      "generalHours": [
+        {
+          "day": "Monday to Sunday",
+          "times": "08:00 to 20:00"
+        }
+      ],
       "notes": "They say: \"Our colleagues will be prioritising and caring for vulnerable customers.\"",
       "detailsLink": "https://www.coop.co.uk/coronavirus",
       "twitterLink": "https://twitter.com/coopuk"
@@ -136,6 +206,16 @@
           "description": "First hour of trading, Monday - Saturday"
         }
       ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "08:00 to 19:00"
+        }, 
+        {
+          "day": "Sunday",
+          "times": "10:00 to 16:00"
+        }
+      ],
       "detailsLink": "https://www.iceland.co.uk/customer-support/help-articles#coronavirus",
       "twitterLink": "https://twitter.com/IcelandFoods?s=20"
     },
@@ -148,6 +228,16 @@
           "description": "No commitment to priority or early opening"
         }
       ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "08:00 to 20:00"
+        }, 
+        {
+          "day": "Sunday",
+          "times": "10:00 to 16:00"
+        }
+      ],
       "detailsLink": "https://www.lidl.co.uk/about-us/customer-update",
       "twitterLink": "https://twitter.com/LidlGB"
     },
@@ -158,6 +248,16 @@
         {
           "title": "All Customers",
           "description": "No commitment to priority or early opening"
+        }
+      ],
+      "generalHours": [
+        {
+          "day": "Monday to Saturday",
+          "times": "08:00 to 20:00"
+        }, 
+        {
+          "day": "Sunday",
+          "times": "10:00 to 16:00"
         }
       ],
       "detailsLink": "https://www.aldi.co.uk/covid19",

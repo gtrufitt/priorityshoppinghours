@@ -37,6 +37,14 @@ ul {
     margin-bottom: 0.5em;
 }
 
+.general-public {
+    position: relative;
+    font-size: 0.85em;
+    padding: 0.5em 0;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 0.5em;
+}
+
 .supermarket {
     background-color: #f6f6f6;
     display: block;

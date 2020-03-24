@@ -50,15 +50,23 @@
                         <dd><p>{{group.description}}</p><dd>
                     {% endfor %}
                 </dl>
+                <dl class="general-public">
+                <dt><h3>General Public Opening Times</h3><dt>
+                    {% for opening in supermarket.generalHours %}
+                        <dt><strong><p>{{opening.day}}</p></strong><dt>
+                        <dd><p>{{opening.times}}</p><dd>
+                    {% endfor %}
+                </dl>
                 {% if supermarket.notes != "" %}
                     <h4 class="small">Notes</h4>
                     <p class="notes small">{{supermarket.notes}}</p>
                 {% endif %}
-                <p class="small notes" style="margin-top: 0.5em;">View <a class="notes" href="{{supermarket.detailsLink}}">Website</a> or <a class="notes" href="{{supermarket.twitterLink}}">Twitter</a></p>
+                <p class="small notes" style="margin-top: 0.5em;">View <a class="notes" target="_blank" href="{{supermarket.detailsLink}}">Website</a> or <a class="notes" target="_blank" href="{{supermarket.twitterLink}}">Twitter</a></p>
             </li>
         {% endfor %}
     </ul>
 
+    <p class="small">** Opening times may vary at differen locations - Always check before travelling **</p>
     <p class="small">Last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}</p>
     <p class="small"><a href="https://twitter.com/i/lists/1242131294731059201?s=20">See Tweets from all supermarkets in one place</a></p>
 
