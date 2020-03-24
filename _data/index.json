@@ -1,5 +1,40 @@
 {
   "supermarkets": [
+    
+    {
+      "name": "All Supermarkets",
+      "logo": "https://priorityshoppinghours.com/img/allsupermarkets1.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "During NHS hour, a pass <b>should</b> be required in all stores"
+        },
+        {
+          "title": "Bagless shopping",
+          "description": "Most stores have reverted bagless shopping, particularly for online delivery"
+        },
+        {
+          "title": "Online delivery",
+          "description": "All stores are struggling to manage online delivery at the moment. Most stores are not accepting new online delivery customers."
+        },
+        {
+          "title": "Restrictions",
+          "description": "Most stores are restricting the amount of all or specific high-demand products in a single purchase."
+        },
+        {
+          "title": "Opening hours",
+          "description": "All stores have reduced opening hours to mange stock replenishment and cleaning."
+        },
+        {
+          "title": "Cafes and Food Counters",
+          "description": "All stores have closed cafes and food counters."
+        }
+      ],
+      "notes": "The above information may not apply to all supermarkets.",
+      "detailsLink": "",
+      "twitterLink": "https://twitter.com/i/lists/1242131294731059201?s=20",
+      "hideFromNav": true
+    },
     {
       "name": "Sainsburys",
       "logo": "https://1000logos.net/wp-content/uploads/2018/08/sainsburys-logo.png",
@@ -81,7 +116,7 @@
           "times": "11:00 to 17:00"
         }
       ],
-      "notes": "",
+      "notes": "Limited customer numbers in store, 2 meter rule marshals, staff protection.",
       "detailsLink": "https://www.waitrose.com/ecom/help-information/customer-service/coronavirus",
       "twitterLink": "https://twitter.com/waitrose?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
     },
@@ -181,6 +216,10 @@
         {
           "title": "Those at higher risk and the people who care for them",
           "description": "8–9am Monday to Saturday, and 10– 11am on Sundays (Not dedicated)"
+        },
+        {
+          "title": "Online Orders",
+          "description": "No priority, but orders limited to 20 items"
         }
       ],
       "generalHours": [
@@ -218,6 +257,23 @@
       ],
       "detailsLink": "https://www.iceland.co.uk/customer-support/help-articles#coronavirus",
       "twitterLink": "https://twitter.com/IcelandFoods?s=20"
+    },
+    {
+      "name": "Ocado",
+      "logo": "https://cdn.freebiesupply.com/logos/large/2x/ocado-logo-png-transparent.png",
+      "hours": [
+        {
+          "title": "Online Delivery",
+          "description": "One booking allowed, every seven days"
+        },
+        {
+          "title": "NHS, Elderly and Most Vulnerable",
+          "description": "No specific commit for priority slots"
+        }
+      ],
+      "notes": "Ocado have a virtual queue that averages 4 hours in the day. Slots are three weeks ahead.",
+      "detailsLink": "https://blog.ocado.com/2020/03/24/an-update-from-our-ceo-2/",
+      "twitterLink": "https://twitter.com/Ocado?s=20"
     },
     {
       "name": "Lidl",

@@ -31,9 +31,11 @@
 
     <p class="small" style="margin-bottom: 0.2em;">Click to view:</p>
     {% for supermarket in index.supermarkets %}
-    <a href="#{{ supermarket.name | url_encode }}" class="button">
-        <img style="width: 70px;" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=50&w=140&trim=20" alt="View details for {{ supermarket.name }}">
-    </a>
+        {% if supermarket.hideFromNav != true %}
+            <a href="#{{ supermarket.name | url_encode }}" class="button">
+                <img style="width: 70px;" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=50&w=140&trim=20" alt="View details for {{ supermarket.name }}">
+            </a>
+        {% endif %}
     {% endfor %}
     
 
@@ -61,7 +63,10 @@
                     <h4 class="small">Notes</h4>
                     <p class="notes small">{{supermarket.notes}}</p>
                 {% endif %}
-                <p class="small notes" style="margin-top: 0.5em;">View <a class="notes" target="_blank" href="{{supermarket.detailsLink}}">Website</a> or <a class="notes" target="_blank" href="{{supermarket.twitterLink}}">Twitter</a></p>
+                <p class="small notes" style="margin-top: 0.5em;">View 
+                    {% if supermarket.detailsLink != "" %}<a class="notes" target="_blank" href="{{supermarket.detailsLink}}">Website</a> or{% endif %} 
+                    <a class="notes" target="_blank" href="{{supermarket.twitterLink}}">Twitter</a>
+                </p>
             </li>
         {% endfor %}
     </ul>
