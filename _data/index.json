@@ -179,6 +179,23 @@
       "twitterLink": "https://twitter.com/IcelandFoods?s=20"
     },
     {
+      "name": "Ocado",
+      "logo": "https://cdn.freebiesupply.com/logos/large/2x/ocado-logo-png-transparent.png",
+      "hours": [
+        {
+          "title": "Online Delivery",
+          "description": "One booking allowed, every seven days"
+        },
+        {
+          "title": "NHS, Elderly and Most Vulnerable",
+          "description": "No specific commit for priority slots"
+        }
+      ],
+      "notes": "Ocado have a virtual queue that averages 4 hours in the day. Slots are three weeks ahead.",
+      "detailsLink": "https://blog.ocado.com/2020/03/24/an-update-from-our-ceo-2/",
+      "twitterLink": "https://twitter.com/Ocado?s=20"
+    },
+    {
       "name": "Lidl",
       "logo": "https://poseidon-gp.com/property/wp-content/uploads/2013/12/lidl.png",
       "hours": [
