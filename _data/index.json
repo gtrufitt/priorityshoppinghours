@@ -1,5 +1,40 @@
 {
   "supermarkets": [
+    
+    {
+      "name": "All Supermarkets",
+      "logo": "https://priorityshoppinghours.com/img/allsupermarkets.png",
+      "hours": [
+        {
+          "title": "NHS",
+          "description": "During NHS hour, a pass <b>should</b> be required in all stores"
+        },
+        {
+          "title": "Bagless shopping",
+          "description": "Most stores have reverted bagless shopping, particularly for online delivery"
+        },
+        {
+          "title": "Online delivery",
+          "description": "All stores are struggling to manage online delivery at the moment. Most stores are not accepting new online delivery customers."
+        },
+        {
+          "title": "Restrictions",
+          "description": "Most stores are restricting the amount of all or specific high-demand products in a single purchase."
+        },
+        {
+          "title": "Opening hours",
+          "description": "All stores have reduced opening hours to mange stock replenishment and cleaning."
+        },
+        {
+          "title": "Cafes and Food Counters",
+          "description": "All stores have closed cafes and food counters."
+        }
+      ],
+      "notes": "The above information may not apply to all supermarkets.",
+      "detailsLink": "",
+      "twitterLink": "",
+      "hideFromNav": true
+    },
     {
       "name": "Sainsburys",
       "logo": "https://1000logos.net/wp-content/uploads/2018/08/sainsburys-logo.png",
