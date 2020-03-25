@@ -64,8 +64,8 @@
                     <p class="notes small">{{supermarket.notes}}</p>
                 {% endif %}
                 <p class="small notes" style="margin-top: 0.5em;">View 
-                    {% if supermarket.detailsLink != "" %}<a class="notes" target="_blank" href="{{supermarket.detailsLink}}">Website</a> or{% endif %} 
-                    <a class="notes" target="_blank" href="{{supermarket.twitterLink}}">Twitter</a>
+                    {% if supermarket.detailsLink != "" %}<a class="notes" href="{{supermarket.detailsLink}}">Website</a> or{% endif %} 
+                    <a class="notes" href="{{supermarket.twitterLink}}">Twitter</a>
                 </p>
             </li>
         {% endfor %}
