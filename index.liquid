@@ -52,13 +52,15 @@
                         <dd><p>{{group.description}}</p><dd>
                     {% endfor %}
                 </dl>
-                <dl class="general-public">
-                <dt><h3>General Public Opening Times</h3><dt>
+                
+                {% if supermarket.generalHours %}
+                <h3>General Public Opening Times</h3>
+                <ul class="general-public">
                     {% for opening in supermarket.generalHours %}
-                        <dt><strong><p>{{opening.day}}</p></strong><dt>
-                        <dd><p>{{opening.times}}</p><dd>
+                        <li class="general-public-item"><h4>{{opening.day}}</h4><p>{{opening.times}}</p></li>
                     {% endfor %}
-                </dl>
+                </ul>
+                {% endif %}
                 {% if supermarket.notes != "" %}
                     <h4 class="small">Notes</h4>
                     <p class="notes small">{{supermarket.notes}}</p>
