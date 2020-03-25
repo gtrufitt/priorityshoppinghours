@@ -67,13 +67,13 @@
                     <p class="notes small">{{supermarket.notes}}</p>
                 {% endif %}
                 <p class="small notes" style="margin-top: 0.5em;">View 
-                    {% if supermarket.detailsLink != "" %}<a class="notes" target="_blank" href="{{supermarket.detailsLink}}">Website</a> or{% endif %} 
-                    <a class="notes" target="_blank" href="{{supermarket.twitterLink}}">Twitter</a>{% if supermarket.branchFinder %} or <a class="notes" href="{{supermarket.branchFinder}}">Branch Finder</a>{% endif %} 
+                    {% if supermarket.detailsLink != "" %}<a class="notes" href="{{supermarket.detailsLink}}">Website</a> or{% endif %} 
+                    <a class="notes" href="{{supermarket.twitterLink}}">Twitter</a>{% if supermarket.branchFinder %} or <a class="notes" href="{{supermarket.branchFinder}}">Branch Finder</a>{% endif %} 
                 </p>
             </li>
         {% endfor %}
     </ul>
-
+    
     <p class="small">Last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}</p>
     <p class="small"><a href="https://twitter.com/i/lists/1242131294731059201?s=20">See Tweets from all supermarkets in one place</a></p>
 
