@@ -55,7 +55,7 @@
                 <dl class="general-public">
                 <dt><h3>General Public Opening Times</h3><dt>
                     {% for opening in supermarket.generalHours %}
-                        <dt><strong><p>{{opening.day}}</p></strong><dt>
+                        <dt>{{opening.day}}<dt>
                         <dd><p>{{opening.times}}</p><dd>
                     {% endfor %}
                 </dl>
