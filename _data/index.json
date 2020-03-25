@@ -136,7 +136,12 @@
         {
           "title": "Elderly and Most Vulnerable",
           "description": "Monday and Thursday for the first hour"
+        },
+        {
+          "title": "Deliveroo",
+          "description": "Delivering some BP M&S products through Deliveroo"
         }
+
       ],
       "generalHoursNote": "Normal opening, use branch finder to check local opening",
       "generalHours": [
