@@ -48,7 +48,7 @@
         },
         {
           "title": "Online delivery",
-          "description": "Prioritised online delivery slots for elderly, disabled and vulnerable customers."
+          "description": "Prioritised online delivery slots for elderly, disabled and vulnerable customers. Call 0800 328 1700."
         }
       ],
       "generalHoursNote": "Opening times reduced",
@@ -198,6 +198,10 @@
         {
           "title": "Elderly and Most Vulnerable",
           "description": "No ongoing commitment."
+        },
+        {
+          "title": "Food boxes - Delivery",
+          "description": "Vegetarian or Meat, essentials box. Delivery slots limited, available from <a href=\"https://www.morrisons.com/food-boxes/boxes\">Morrison's website</a>."
         }
       ],
       "generalHoursNote": "Normal opening, use branch finder to check local opening",
@@ -319,8 +323,8 @@
       "logo": "https://1000logos.net/wp-content/uploads/2017/12/Aldi-logo.png",
       "hours": [
         {
-          "title": "All Customers",
-          "description": "No commitment to priority or early opening"
+          "title": "NHS, Police or Fire Service",
+          "description": "Sundays, 09:30 - 10am, priority access to checkouts at 10am"
         }
       ],
       "generalHoursNote": "Reduced opening times, use branch finder",
