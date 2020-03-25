@@ -52,18 +52,28 @@
                         <dd><p>{{group.description}}</p><dd>
                     {% endfor %}
                 </dl>
+                
+                {% if supermarket.generalHours %}
+                <h3>General Public Opening Times</h3>
+                <p class="small">{{supermarket.generalHoursNote}}</p>
+                <ul class="general-public">
+                    {% for opening in supermarket.generalHours %}
+                        <li class="general-public-item"><h4>{{opening.day}}</h4><p>{{opening.times}}</p></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
                 {% if supermarket.notes != "" %}
                     <h4 class="small">Notes</h4>
                     <p class="notes small">{{supermarket.notes}}</p>
                 {% endif %}
                 <p class="small notes" style="margin-top: 0.5em;">View 
                     {% if supermarket.detailsLink != "" %}<a class="notes" href="{{supermarket.detailsLink}}">Website</a> or{% endif %} 
-                    <a class="notes" href="{{supermarket.twitterLink}}">Twitter</a>
+                    <a class="notes" href="{{supermarket.twitterLink}}">Twitter</a>{% if supermarket.branchFinder %} or <a class="notes" href="{{supermarket.branchFinder}}">Branch Finder</a>{% endif %} 
                 </p>
             </li>
         {% endfor %}
     </ul>
-
+    
     <p class="small">Last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}</p>
     <p class="small"><a href="https://twitter.com/i/lists/1242131294731059201?s=20">See Tweets from all supermarkets in one place</a></p>
 
@@ -81,7 +91,7 @@
     </form>
 
     <p class="small"><a href="https://github.com/gtrufitt/priorityshoppinghours">Contribute on GitHub</a></p>
-    <p class="small"><a href="https://twitter.com/gtrufitt">Made with 💛 by Gareth</a></p>
+    <p class="small"><a href="https://twitter.com/gtrufitt">Made with 💛 by Gareth</a> and <a href="https://github.com/Jonesatron">Craig</a></p>
 
     <!-- Anon analytics -->
     <script data-goatcounter="https://priorityshoppinghours.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
