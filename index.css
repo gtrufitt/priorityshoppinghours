@@ -6,6 +6,16 @@ body {
       
 }
 
+a {
+    color: #444;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+
 .main-heading {
     line-height: 0.8em;
     padding-bottom: 0.5em;
@@ -25,10 +35,6 @@ body {
     align-items: center;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-}
 
 .groups {
     font-size: 0.85em;
@@ -39,6 +45,11 @@ ul {
 
 .groups dt {
     padding-top: 0.5em;
+}
+
+.groups ul {
+    padding-left: 1em;
+    list-style: disc;
 }
 
 ul.general-public {
