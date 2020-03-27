@@ -105,6 +105,10 @@ ul.general-public {
     font-size: 0.8em;
 }
 
+.fade {
+    color: #ccc;
+}
+
 .notes {
     color: #444;
 }
