@@ -259,11 +259,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Co-Operative_clover_leaf_logo.svg/1200px-The_Co-Operative_clover_leaf_logo.svg.png",
       "hours": [
         {
-          "title": "NHS",
-          "description": "8–9am Monday to Saturday, and 10– 11am on Sundays (Not dedicated)"
-        },
-        {
-          "title": "Those at higher risk and the people who care for them",
+          "title": "NHS, Those at higher risk and the people who care for them",
           "description": "8–9am Monday to Saturday, and 10– 11am on Sundays (Not dedicated)"
         },
         {
