@@ -52,13 +52,21 @@ ul {
     list-style: disc;
 }
 
-ul.general-public {
-    position: relative;
-    font-size: 0.85em;
+.general-public-details {
     border-bottom: 1px solid #ccc;
     margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 0.85em;
+}
+
+.general-public-details summary h3 {
+    display: inline-block;
+}
+    
+ul.general-public {
+    position: relative;
     display: flex;
-    padding: 0.5em 0;
+    padding-top: 0.5em;
 }
 
 .general-public-item {
