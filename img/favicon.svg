@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <!-- CSS animation like Walt Disney ✨ -->
+    <style>
+        .favicon {
+          animation-name: shake;
+          animation-duration: 0.8s;
+          transform-origin:50% 50%;
+          animation-iteration-count: infinite;
+          animation-timing-function: linear;
+        }
+
+        @keyframes shake {
+         0% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(1.1);
+  }
+  40% {
+    transform: scale(1);
+  }
+  60% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+      }
+  </style>
+  <text class="favicon" y=".9em" font-size="90">
+    💙
+  </text>
+</svg>
