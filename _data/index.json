@@ -167,7 +167,6 @@
           "title": "Deliveroo",
           "description": "Delivering some BP M&S products through Deliveroo"
         }
-
       ],
       "generalHoursNote": "Normal opening, use branch finder to check local opening",
       "generalHours": [
@@ -270,6 +269,10 @@
         {
           "title": "Online Orders",
           "description": "No priority, but orders limited to 20 items"
+        },
+        {
+          "title": "Deliveroo",
+          "description": "Delivering essential items through Deliveroo"
         }
       ],
       "generalHoursNote": "Changes to opening hours",
