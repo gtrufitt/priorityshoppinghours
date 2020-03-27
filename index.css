@@ -78,6 +78,15 @@ ul.general-public {
     max-height: 50px;
 }
 
+.StayHome .logo {
+    max-height: 200px;
+}
+
+.StayHome .header {
+    background-color: #000000;
+    padding: 0 1.5em;
+}
+
 .supermarket-name {
     display: inline-block;
     margin: 0;

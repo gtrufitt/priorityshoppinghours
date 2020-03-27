@@ -35,6 +35,32 @@
       "hideFromNav": true
     },
     {
+      "name": "Stay Home",
+      "logo": "https://assets.publishing.service.gov.uk/static/covid-62e4e34513f2b67bbc6cd66701daf6d52eb5b2ad916dfe566074a325c68ef7b5.png",
+      "logoParams": "func=fit&h=310&w=776&trim=20",
+      "hours": [
+        {
+          "title": "Mutal Aid Groups",
+          "description": "Local organising to support the most vulnerable in our communities. <a href=\"https://covidmutualaid.org/local-groups/\">Find your local group<a/>."
+        },
+        {
+          "title": "Local shops",
+          "description": "Contact your local butcher, baker and small grocery stores - they're likely to be doing home deliveries."
+        },
+        {
+          "title": "Wholesalers",
+          "description": "Many wholesalers have switched to direct delivery. Your Mutal Aid Group may have details of some in your area."
+        },
+        {
+          "title": "Help is coming",
+          "description": "The 'Extermely Vulnerable' list is designed to help those most in need get the food, medication and supplies they require. There have been hundreds of thousands of volunteers to help out."
+        }
+      ],
+      "detailsLink": "",
+      "twitterLink": "https://twitter.com/i/lists/1242131294731059201?s=20",
+      "hideFromNav": true
+    },
+    {
       "name": "Sainsburys",
       "logo": "https://1000logos.net/wp-content/uploads/2018/08/sainsburys-logo.png",
       "hours": [
@@ -291,12 +317,12 @@
       "logo": "https://cdn.freebiesupply.com/logos/large/2x/ocado-logo-png-transparent.png",
       "hours": [
         {
-          "title": "Online Delivery",
-          "description": "One booking allowed, every seven days"
+          "title": "NHS, Elderly and Most Vulnerable",
+          "description": "No specific commitment for priority slots"
         },
         {
-          "title": "NHS, Elderly and Most Vulnerable",
-          "description": "No specific commit for priority slots"
+          "title": "Online Delivery",
+          "description": "Ocado are prioritising existing <b>smart pass</b> customers, with 'booking slots'. One booking allowed, every seven days."
         }
       ],
       "notes": "Ocado have a virtual queue that averages 4 hours in the day. Slots are three weeks ahead.",

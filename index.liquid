@@ -41,9 +41,9 @@
 
     <ul>
         {% for supermarket in index.supermarkets %}
-            <li class="supermarket" id="{{ supermarket.name | url_encode }}">
+            <li class="supermarket {{ supermarket.name | remove: ' ' }}" id="{{ supermarket.name | url_encode }}">
                 <div class="header">                    
-                    <img class="logo" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?func=fit&h=100&w=300&trim=20" alt="{{ supermarket.name }}">
+                    <img class="logo" src="https://aoxpqaidqo.cloudimg.io/v7/{{supermarket.logo}}?{{ supermarket.logoParams | default: "func=fit&h=100&w=300&trim=20" }}" alt="{{ supermarket.name }}">
                     <h2 class="sr">{{ supermarket.name }}</h2>
                 </div>
                 <dl class="groups">
