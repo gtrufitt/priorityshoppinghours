@@ -49,7 +49,7 @@
                 </div>
                 <dl class="groups">
                     {% for group in supermarket.hours %}
-                        <dt><h3>{{group.title | replace: "NHS", "<img src='https://aoxpqaidqo.cloudimg.io/v7/https://1000logos.net/wp-content/uploads/2017/09/Font-NHS-Logo-500x229.jpg?func=fit&h=30&trim=20' height='15' style='display: inline-block;'>"}}</h3></dt>
+                        <dt><h3>{{group.title | replace: "NHS", "<img alt='NHS' src='https://aoxpqaidqo.cloudimg.io/v7/https://1000logos.net/wp-content/uploads/2017/09/Font-NHS-Logo-500x229.jpg?func=fit&h=30&trim=20' height='15' style='display: inline-block;'>"}}</h3></dt>
                         <dd><p>{{group.description}}</p></dd>
                     {% endfor %}
                 </dl>
