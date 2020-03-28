@@ -194,7 +194,7 @@
       "hours": [
         {
           "title": "NHS",
-          "description": "Larger stores every Monday, Wednesday and Friday from 8am to 9am."
+          "description": "Larger stores every Monday, Wednesday and Friday from 8am to 9am. Sunday 29th March - stores will open an hour early, with NHS ID, for browsing, till will open normal time."
         },
         {
           "title": "Elderly and Most Vulnerable",
@@ -289,18 +289,18 @@
       "hours": [
         {
           "title": "NHS",
-          "description": "Final hour of trading, Monday - Saturday (with ID)"
+          "description": "17:00 - 18:00 (or final hour of trading), Monday - Saturday (with ID)"
         },
         {
           "title": "Elderly and vulnerable",
           "description": "First hour of trading, Monday - Saturday"
         }
       ],
-      "generalHoursNote": "Some stores have reduced hours, use branch finder",
+      "generalHoursNote": "All stores have reduced hours, use branch finder",
       "generalHours": [
         {
           "day": "Monday to Saturday",
-          "times": "08:00 to 19:00"
+          "times": "09:00 to 17:00"
         },
         {
           "day": "Sunday",
