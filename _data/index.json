@@ -41,7 +41,7 @@
       "hours": [
         {
           "title": "Mutal Aid Groups",
-          "description": "Local organising to support the most vulnerable in our communities. <a href=\"https://covidmutualaid.org/local-groups/\">Find your local group</a>."
+          "description": "Local organising to support the most vulnerable in our communities. <a href=\"https://covidmutualaid.org/local-groups/\">Find your local group here</a>."
         },
         {
           "title": "Local shops",
@@ -53,7 +53,7 @@
         },
         {
           "title": "Help is coming",
-          "description": "The 'Extermely Vulnerable' list is designed to help those most in need get the food, medication and supplies they require. There have been hundreds of thousands of volunteers to help out."
+          "description": "The 'Extermely Vulnerable' list is designed to help those most in need get the food, medication and supplies they require. There have been hundreds of thousands of volunteers to help out. "
         }
       ],
       "detailsLink": "",
