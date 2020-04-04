@@ -201,12 +201,12 @@
       "logo": "https://logosmarcas.com/wp-content/uploads/2020/02/ASDA-Logo.png",
       "hours": [
         {
-          "title": "Elderly and Most Vulnerable",
-          "description": "No ongoing commitment."
-        },
-        {
           "title": "NHS",
           "description": "Larger stores every Monday, Wednesday and Friday from 8am to 9am. Sunday 29th March - stores will open an hour early, with NHS ID, for browsing, till will open normal time."
+        },
+        {
+          "title": "Elderly and Most Vulnerable",
+          "description": "No ongoing commitment."
         }
       ],
       "generalHoursNote": "Store opening hours have been changed, use branch finder",
