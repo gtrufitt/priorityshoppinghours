@@ -75,6 +75,10 @@
         {
           "title": "Online delivery",
           "description": "Prioritised online delivery slots for elderly, disabled and vulnerable customers. <ul><li>Call 0800 328 1700.</li> <li>They will be contacting all existing customers on the <a href=\"https://www.gov.uk/coronavirus-extremely-vulnerable\">NHS 'Extremely Vulnerable' list</a>.</li></ul>"
+        },
+        {
+          "title": "Chop Chop - Bicycle delivery ",
+          "description": "Trialing delivery of 20 essential items - search for the Chop Chop app"
         }
       ],
       "generalHoursNote": "Opening times reduced",
@@ -203,10 +207,6 @@
         {
           "title": "NHS",
           "description": "Larger stores every Monday, Wednesday and Friday from 8am to 9am. Sunday 29th March - stores will open an hour early, with NHS ID, for browsing, till will open normal time."
-        },
-        {
-          "title": "Volunteer Card ",
-          "description": "The Volunteer Card can be purchased online and then emailed to the volunteer or printed out and left in a safe place for the volunteer to pick up"
         }
       ],
       "generalHoursNote": "Store opening hours have been changed, use branch finder",
