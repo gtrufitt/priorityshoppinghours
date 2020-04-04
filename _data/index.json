@@ -160,10 +160,6 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MarksAndSpencer1884_logo.svg/1200px-MarksAndSpencer1884_logo.svg.png",
       "hours": [
         {
-          "title": "Gift card ",
-          "description": "<a href=“ https://www.marksandspencer.com/all-in-this-together/p/p60282075”>All in this together gift card</a> can be purchased to allow friends and family to buy from M&S"
-        },
-        {
           "title": "NHS",
           "description": "Tuesday and Friday for the first hour"
         },
@@ -174,6 +170,10 @@
         {
           "title": "Deliveroo",
           "description": "Delivering some BP M&S products through Deliveroo"
+        },
+        {
+          "title": "Gift card ",
+          "description": "<a href=“ https://www.marksandspencer.com/all-in-this-together/p/p60282075”>All in this together gift card</a> can be purchased to allow friends and family to buy from M&S"
         }
       ],
       "generalHoursNote": "Normal opening, use branch finder to check local opening",
