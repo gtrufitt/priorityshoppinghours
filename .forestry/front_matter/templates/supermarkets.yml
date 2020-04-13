@@ -39,5 +39,23 @@ fields:
     config:
       required: false
     label: General Opening Hours
+  - name: generalhours
+    type: field_group_list
+    fields:
+    - name: day
+      type: text
+      config:
+        required: false
+      label: day
+    - name: times
+      type: text
+      config:
+        required: false
+      label: Times
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: generalHours
 pages:
 - _data/index.json
