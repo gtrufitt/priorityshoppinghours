@@ -1,0 +1,36 @@
+---
+label: 'Supermarkets '
+hide_body: true
+fields:
+- type: field_group_list
+  name: supermarkets
+  label: supermarkets
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: logo
+    label: logo
+  - type: field_group_list
+    name: hours
+    label: hours
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: description
+      label: description
+  - type: text
+    name: notes
+    label: notes
+  - type: text
+    name: detailsLink
+    label: detailsLink
+  - type: text
+    name: twitterLink
+    label: twitterLink
+  - type: boolean
+    name: hideFromNav
+    label: hideFromNav
