@@ -34,3 +34,8 @@ fields:
   - type: boolean
     name: hideFromNav
     label: hideFromNav
+  - name: generalHoursNote
+    type: text
+    config:
+      required: false
+    label: General Opening Hours
