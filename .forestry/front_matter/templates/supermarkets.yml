@@ -39,3 +39,5 @@ fields:
     config:
       required: false
     label: General Opening Hours
+pages:
+- _data/index.json

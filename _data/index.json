@@ -32,7 +32,8 @@
       "notes": "The above information may not apply to all supermarkets.",
       "detailsLink": "",
       "twitterLink": "https://twitter.com/i/lists/1242131294731059201?s=20",
-      "hideFromNav": true
+      "hideFromNav": true,
+      "generalHoursNote": ""
     },
     {
       "name": "Stay Home",
@@ -58,7 +59,9 @@
       ],
       "detailsLink": "",
       "twitterLink": "https://twitter.com/i/lists/1242131294731059201?s=20",
-      "hideFromNav": true
+      "hideFromNav": true,
+      "notes": "",
+      "generalHoursNote": ""
     },
     {
       "name": "Sainsburys",
@@ -95,7 +98,8 @@
       "notes": "Adding more Click & Collect locations",
       "detailsLink": "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/working-to-feed-the-nation-/latest-information--?storeId=10151&langId=44&krypto=Y7XJ8Ek98uf%2B5ruQTCXQxFVMrd4QwW6nAzMMmN972JIXCQnvu7SCFiJkN7cJWXt8gkH33NcnX3Cf8GdACkFMfdblfY91urcIOA0KomiE4FRsSWQ%2ByZRSp1Qb4Ih7waepu%2Blm3GnFAqMy1NGltXUZB31FD8ljMlSrIYeBLhlsNVQ%3D&ddkey=https%3Agb%2Fgroceries%2Fworking-to-feed-the-nation-%2Flatest-information--",
       "twitterLink": "https://twitter.com/sainsburys?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "branchFinder": "https://stores.sainsburys.co.uk/"
+      "branchFinder": "https://stores.sainsburys.co.uk/",
+      "hideFromNav": false
     },
     {
       "name": "Tesco",
@@ -124,7 +128,8 @@
       "notes": "Excludes express stores.",
       "detailsLink": "https://digitalcontent.api.tesco.com/v2/media/ghs-mktg/e3826f9b-9226-4ae0-a583-943867f41636/vulnerable-hour.pdf?icid=dchp_cs1_accesshour_w4",
       "twitterLink": "https://twitter.com/Tesco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "branchFinder": "https://www.tesco.com/store-locator/uk/"
+      "branchFinder": "https://www.tesco.com/store-locator/uk/",
+      "hideFromNav": false
     },
     {
       "name": "Waitrose",
@@ -153,7 +158,8 @@
       "notes": "Limited customer numbers in store, 2 meter rule marshals, staff protection.",
       "detailsLink": "https://www.waitrose.com/ecom/help-information/customer-service/coronavirus",
       "twitterLink": "https://twitter.com/waitrose?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-      "branchFinder": "https://www.waitrose.com/shop/BranchFinderSearch"
+      "branchFinder": "https://www.waitrose.com/shop/BranchFinderSearch",
+      "hideFromNav": false
     },
     {
       "name": "Marks and Spencer",
@@ -194,7 +200,8 @@
       "notes": "",
       "detailsLink": "https://www.marksandspencer.com/c/neighbourly",
       "twitterLink": "https://twitter.com/marksandspencer",
-      "branchFinder": "https://www.marksandspencer.com/MSResStoreFinderGlobalBaseCmd?catalogId=10051&langId=-24&storeId=10151"
+      "branchFinder": "https://www.marksandspencer.com/MSResStoreFinderGlobalBaseCmd?catalogId=10051&langId=-24&storeId=10151",
+      "hideFromNav": false
     },
     {
       "name": "Asda",
@@ -223,7 +230,8 @@
       "notes": "Reduced opening times in stores, see website.",
       "detailsLink": "https://corporate.asda.com/20200309/steps-we-have-taken-in-response-to-the-coronavirus-outbreak",
       "twitterLink": "https://twitter.com/asda",
-      "branchFinder": "https://storelocator.asda.com/"
+      "branchFinder": "https://storelocator.asda.com/",
+      "hideFromNav": false
     },
     {
       "name": "Morrisons",
@@ -260,7 +268,8 @@
       "notes": "Installing protective screens. Opening hours 7-8 during week.",
       "detailsLink": "https://groceries.morrisons.com/content/important-update-on-coronavirus-94110?ad=61350%7C1231676%7C61343%7C1168557",
       "twitterLink": "https://twitter.com/Morrisons",
-      "branchFinder": "https://my.morrisons.com/storefinder/?utm_source=Groceries&utm_medium=Internal&utm_campaign=HeaderTab"
+      "branchFinder": "https://my.morrisons.com/storefinder/?utm_source=Groceries&utm_medium=Internal&utm_campaign=HeaderTab",
+      "hideFromNav": false
     },
     {
       "name": "Co-Op",
@@ -289,7 +298,8 @@
       "notes": "They say: \"Our colleagues will be prioritising and caring for vulnerable customers.\"",
       "detailsLink": "https://www.coop.co.uk/coronavirus",
       "twitterLink": "https://twitter.com/coopuk",
-      "branchFinder": "https://finder.coop.co.uk/food?utm_source=Coop.co.uk&utm_medium=referral&utm_campaign=CoopNavLink&utm_content=Find+a+store&_ga=2.228919380.970509487.1585156221-667547685.1584982572"
+      "branchFinder": "https://finder.coop.co.uk/food?utm_source=Coop.co.uk&utm_medium=referral&utm_campaign=CoopNavLink&utm_content=Find+a+store&_ga=2.228919380.970509487.1585156221-667547685.1584982572",
+      "hideFromNav": false
     },
     {
       "name": "Iceland",
@@ -317,7 +327,9 @@
       ],
       "detailsLink": "https://www.iceland.co.uk/customer-support/help-articles#coronavirus",
       "twitterLink": "https://twitter.com/IcelandFoods?s=20",
-      "branchFinder": "https://www.iceland.co.uk/store-finder"
+      "branchFinder": "https://www.iceland.co.uk/store-finder",
+      "notes": "",
+      "hideFromNav": false
     },
     {
       "name": "Ocado",
@@ -334,7 +346,9 @@
       ],
       "notes": "No new customers, booking and editing orders required waiting in a queue. Access is quickest early morning and late evening.",
       "detailsLink": "https://help.ocado.com/hc/en-us/sections/360002011078-Coronavirus-COVID-19-",
-      "twitterLink": "https://twitter.com/Ocado?s=20"
+      "twitterLink": "https://twitter.com/Ocado?s=20",
+      "hideFromNav": false,
+      "generalHoursNote": ""
     },
     {
       "name": "Lidl",
@@ -358,7 +372,9 @@
       ],
       "detailsLink": "https://www.lidl.co.uk/about-us/customer-update",
       "twitterLink": "https://twitter.com/LidlGB",
-      "branchFinder": "https://www.lidl.co.uk/about-us/store-finder-opening-hours"
+      "branchFinder": "https://www.lidl.co.uk/about-us/store-finder-opening-hours",
+      "notes": "",
+      "hideFromNav": false
     },
     {
       "name": "Aldi",
@@ -382,7 +398,9 @@
       ],
       "detailsLink": "https://www.aldi.co.uk/covid19",
       "twitterLink": "https://twitter.com/AldiUK",
-      "branchFinder": "https://www.aldi.co.uk/store-finder"
+      "branchFinder": "https://www.aldi.co.uk/store-finder",
+      "notes": "",
+      "hideFromNav": false
     }
   ]
 }
