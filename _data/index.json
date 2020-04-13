@@ -231,7 +231,7 @@
       "hours": [
         {
           "title": "NHS",
-          "description": "7am to 8am, Monday to Saturday. Sundays, open at 9am for NHS, store and tills opens at 9:30am."
+          "description": "6am to 7am, Monday to Saturday. Sundays, open at 9am for NHS, store and tills opens at 9:30am."
         },
         {
           "title": "Elderly and Most Vulnerable",
@@ -257,7 +257,7 @@
           "times": "10:00 to 16:00"
         }
       ],
-      "notes": "Installing protective screens. Opening hours 8-8 during week.",
+      "notes": "Installing protective screens. Opening hours 7-8 during week.",
       "detailsLink": "https://groceries.morrisons.com/content/important-update-on-coronavirus-94110?ad=61350%7C1231676%7C61343%7C1168557",
       "twitterLink": "https://twitter.com/Morrisons",
       "branchFinder": "https://my.morrisons.com/storefinder/?utm_source=Groceries&utm_medium=Internal&utm_campaign=HeaderTab"
