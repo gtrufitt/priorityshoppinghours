@@ -39,7 +39,7 @@ fields:
     config:
       required: false
     label: General Opening Hours
-  - name: generalhours
+  - name: generalHours
     type: field_group_list
     fields:
     - name: day
