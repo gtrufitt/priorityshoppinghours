@@ -36,6 +36,9 @@
       "generalHoursNote": "",
       "generalhours": [
 
+      ],
+      "generalHours": [
+
       ]
     },
     {
@@ -66,6 +69,9 @@
       "notes": "",
       "generalHoursNote": "",
       "generalhours": [
+
+      ],
+      "generalHours": [
 
       ]
     },
@@ -101,8 +107,8 @@
           "times": "Normal opening hours - Check your local branch"
         }
       ],
-      "notes": "Adding more Click & Collect locations",
-      "detailsLink": "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/working-to-feed-the-nation-/latest-information--?storeId=10151&langId=44&krypto=Y7XJ8Ek98uf%2B5ruQTCXQxFVMrd4QwW6nAzMMmN972JIXCQnvu7SCFiJkN7cJWXt8gkH33NcnX3Cf8GdACkFMfdblfY91urcIOA0KomiE4FRsSWQ%2ByZRSp1Qb4Ih7waepu%2Blm3GnFAqMy1NGltXUZB31FD8ljMlSrIYeBLhlsNVQ%3D&ddkey=https%3Agb%2Fgroceries%2Fworking-to-feed-the-nation-%2Flatest-information--",
+      "notes": "Adding more Click & Collect locations. One adult per household ",
+      "detailsLink": "https://www.sainsburys.co.uk/shop/gb/groceries/working-to-feed-the-nation-/latest-information--",
       "twitterLink": "https://twitter.com/sainsburys?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "branchFinder": "https://stores.sainsburys.co.uk/",
       "hideFromNav": false,
@@ -380,6 +386,9 @@
       "hideFromNav": false,
       "generalHoursNote": "",
       "generalhours": [
+
+      ],
+      "generalHours": [
 
       ]
     },
