@@ -54,7 +54,7 @@
                     {% endfor %}
                 </dl>
                 
-                {% if supermarket.generalHours %}
+                {% if supermarket.generalHours.size > 0 %}
                 <details class="general-public-details">
                     <summary>
                         <h3>Opening Hours</h3>
