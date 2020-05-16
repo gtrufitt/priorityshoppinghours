@@ -34,12 +34,8 @@
       "twitterLink": "https://twitter.com/i/lists/1242131294731059201?s=20",
       "hideFromNav": true,
       "generalHoursNote": "",
-      "generalhours": [
 
-      ],
-      "generalHours": [
-
-      ]
+      "generalHours": []
     },
     {
       "name": "Stay Home",
@@ -68,12 +64,8 @@
       "hideFromNav": true,
       "notes": "",
       "generalHoursNote": "",
-      "generalhours": [
 
-      ],
-      "generalHours": [
-
-      ]
+      "generalHours": []
     },
     {
       "name": "Sainsburys",
@@ -111,10 +103,7 @@
       "detailsLink": "https://www.sainsburys.co.uk/shop/gb/groceries/working-to-feed-the-nation-/latest-information--",
       "twitterLink": "https://twitter.com/sainsburys?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "branchFinder": "https://stores.sainsburys.co.uk/",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Tesco",
@@ -144,10 +133,7 @@
       "detailsLink": "https://digitalcontent.api.tesco.com/v2/media/ghs-mktg/e3826f9b-9226-4ae0-a583-943867f41636/vulnerable-hour.pdf?icid=dchp_cs1_accesshour_w4",
       "twitterLink": "https://twitter.com/Tesco?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "branchFinder": "https://www.tesco.com/store-locator/uk/",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Waitrose",
@@ -177,10 +163,7 @@
       "detailsLink": "https://www.waitrose.com/ecom/help-information/customer-service/coronavirus",
       "twitterLink": "https://twitter.com/waitrose?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
       "branchFinder": "https://www.waitrose.com/shop/BranchFinderSearch",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Marks and Spencer",
@@ -222,10 +205,7 @@
       "detailsLink": "https://www.marksandspencer.com/c/neighbourly",
       "twitterLink": "https://twitter.com/marksandspencer",
       "branchFinder": "https://www.marksandspencer.com/MSResStoreFinderGlobalBaseCmd?catalogId=10051&langId=-24&storeId=10151",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Asda",
@@ -255,10 +235,7 @@
       "detailsLink": "https://corporate.asda.com/20200309/steps-we-have-taken-in-response-to-the-coronavirus-outbreak",
       "twitterLink": "https://twitter.com/asda",
       "branchFinder": "https://storelocator.asda.com/",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Morrisons",
@@ -296,10 +273,7 @@
       "detailsLink": "https://groceries.morrisons.com/content/important-update-on-coronavirus-94110?ad=61350%7C1231676%7C61343%7C1168557",
       "twitterLink": "https://twitter.com/Morrisons",
       "branchFinder": "https://my.morrisons.com/storefinder/?utm_source=Groceries&utm_medium=Internal&utm_campaign=HeaderTab",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Co-Op",
@@ -329,10 +303,7 @@
       "detailsLink": "https://www.coop.co.uk/coronavirus",
       "twitterLink": "https://twitter.com/coopuk",
       "branchFinder": "https://finder.coop.co.uk/food?utm_source=Coop.co.uk&utm_medium=referral&utm_campaign=CoopNavLink&utm_content=Find+a+store&_ga=2.228919380.970509487.1585156221-667547685.1584982572",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Iceland",
@@ -362,10 +333,7 @@
       "twitterLink": "https://twitter.com/IcelandFoods?s=20",
       "branchFinder": "https://www.iceland.co.uk/store-finder",
       "notes": "",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Ocado",
@@ -385,12 +353,8 @@
       "twitterLink": "https://twitter.com/Ocado?s=20",
       "hideFromNav": false,
       "generalHoursNote": "",
-      "generalhours": [
 
-      ],
-      "generalHours": [
-
-      ]
+      "generalHours": []
     },
     {
       "name": "Lidl",
@@ -416,10 +380,7 @@
       "twitterLink": "https://twitter.com/LidlGB",
       "branchFinder": "https://www.lidl.co.uk/about-us/store-finder-opening-hours",
       "notes": "",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     },
     {
       "name": "Aldi",
@@ -445,10 +406,7 @@
       "twitterLink": "https://twitter.com/AldiUK",
       "branchFinder": "https://www.aldi.co.uk/store-finder",
       "notes": "",
-      "hideFromNav": false,
-      "generalhours": [
-
-      ]
+      "hideFromNav": false
     }
   ]
 }
