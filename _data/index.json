@@ -34,8 +34,9 @@
       "twitterLink": "https://twitter.com/i/lists/1242131294731059201?s=20",
       "hideFromNav": true,
       "generalHoursNote": "",
+      "generalHours": [
 
-      "generalHours": []
+      ]
     },
     {
       "name": "Stay Home",
@@ -64,8 +65,9 @@
       "hideFromNav": true,
       "notes": "",
       "generalHoursNote": "",
+      "generalHours": [
 
-      "generalHours": []
+      ]
     },
     {
       "name": "Sainsburys",
@@ -243,7 +245,7 @@
       "hours": [
         {
           "title": "NHS",
-          "description": "6am to 7am, Monday to Saturday. Sundays, open at 9am for NHS, store and tills opens at 9:30am."
+          "description": "6am to 7am, Monday to Saturday. Sundays, open at 9am for NHS, store and tills opens at 9:30am. <a href=\"https://my.morrisons.com/more/#/nhs\">NHS Club for discounts</a>."
         },
         {
           "title": "Elderly and Most Vulnerable",
@@ -353,8 +355,9 @@
       "twitterLink": "https://twitter.com/Ocado?s=20",
       "hideFromNav": false,
       "generalHoursNote": "",
+      "generalHours": [
 
-      "generalHours": []
+      ]
     },
     {
       "name": "Lidl",
